@@ -1,0 +1,319 @@
+<data>
+<reposnse>
+ <tag>I need (.*)</tag>
+ <reply>Why do you need \1?</reply>
+ <reply>Would it really help you to get \1?</reply>
+ <reply>Are you sure you need \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>Why don\'t you (.*)</tag>
+ <reply>Do you really think I don't \1?</reply>
+ <reply>Perhaps eventually I will \1.</reply>
+ <reply>Do you really want me to \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>Why can\'t I (.*)</tag>
+ <reply>Do you think you should be able to \1?</reply>
+ <reply>If you could \1, what would you do?</reply>
+ <reply>I don't know -- why can't you \1?</reply>
+ <reply>Have you really tried?</reply>
+</reposnse>
+<reposnse>
+ <tag>I can\'t (.*)</tag>
+ <reply>How do you know you can't \1?</reply>
+ <reply>Perhaps you could \1 if you tried.</reply>
+ <reply>What would it take for you to \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>I am (.*)</tag>
+ <reply>Did you come to me because you are \1?</reply>
+ <reply>How long have you been \1?</reply>
+ <reply>How do you feel about being \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>I\'m (.*)</tag>
+ <reply>How does being \1 make you feel?</reply>
+ <reply>Do you enjoy being \1?</reply>
+ <reply>Why do you tell me you're \1?</reply>
+ <reply>Why do you think you're \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>Are you (.*)</tag>
+ <reply>Why does it matter whether I am \1?</reply>
+ <reply>Would you prefer it if I were not \1?</reply>
+ <reply>Perhaps you believe I am \1.</reply>
+ <reply>I may be \1 -- what do you think?</reply>
+</reposnse>
+<reposnse>
+ <tag>What (.*)</tag>
+ <reply>Why do you ask?</reply>
+ <reply>How would an answer to that help you?</reply>
+ <reply>What do you think?</reply>
+</reposnse>
+<reposnse>
+ <tag>How (.*)</tag>
+ <reply>How do you suppose?</reply>
+ <reply>Perhaps you can answer your own question.</reply>
+ <reply>What is it you're really asking?</reply>
+</reposnse>
+<reposnse>
+ <tag>Because (.*)</tag>
+ <reply>Is that the real reason?</reply>
+ <reply>What other reasons come to mind?</reply>
+ <reply>Does that reason apply to anything else?</reply>
+ <reply>If \1, what else must be true?</reply>
+</reposnse>
+<reposnse>
+ <tag>(.*) sorry (.*)</tag>
+ <reply>There are many times when no apology is needed.</reply>
+ <reply>What feelings do you have when you apologize?</reply>
+</reposnse>
+<reposnse>
+ <tag>Hello(.*)</tag>
+ <reply>Hello... I'm glad you could drop by today.</reply>
+ <reply>Hi there... how are you today?</reply>
+ <reply>Hello, how are you feeling today?</reply>
+</reposnse>
+<reposnse>
+ <tag>I think (.*)</tag>
+ <reply>Do you doubt \1?</reply>
+ <reply>Do you really think so?</reply>
+ <reply>But you're not sure \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>(.*) friend (.*)</tag>
+ <reply>Tell me more about your friends.</reply>
+ <reply>When you think of a friend, what comes to mind?</reply>
+ <reply>Why don't you tell me about a childhood friend?</reply>
+</reposnse>
+<reposnse>
+ <tag>Yes</tag>
+ <reply>You seem quite sure.</reply>
+ <reply>OK, but can you elaborate a bit?</reply>
+</reposnse>
+<reposnse>
+ <tag>(.*) computer(.*)</tag>
+ <reply>Are you really talking about me?</reply>
+ <reply>Does it seem strange to talk to a computer?</reply>
+ <reply>How do computers make you feel?</reply>
+ <reply>Do you feel threatened by computers?</reply>
+</reposnse>
+<reposnse>
+ <tag>Is it (.*)</tag>
+ <reply>Do you think it is \1?</reply>
+ <reply>Perhaps it's \1 -- what do you think?</reply>
+ <reply>If it were \1, what would you do?</reply>
+ <reply>It could well be that \1.</reply>
+</reposnse>
+<reposnse>
+ <tag>It is (.*)</tag>
+ <reply>You seem very certain.</reply>
+ <reply>If I told you that it probably isn't \1, what would you feel?</reply>
+</reposnse>
+<reposnse>
+ <tag>Can you (.*)</tag>
+ <reply>What makes you think I can't \1?</reply>
+ <reply>If I could \1, then what?</reply>
+ <reply>Why do you ask if I can \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>Can I (.*)</tag>
+ <reply>Perhaps you don't want to \1.</reply>
+ <reply>Do you want to be able to \1?</reply>
+ <reply>If you could \1, would you?</reply>
+</reposnse>
+<reposnse>
+ <tag>You are (.*)</tag>
+ <reply>Why do you think I am \1?</reply>
+ <reply>Does it please you to think that I'm \1?</reply>
+ <reply>Perhaps you would like me to be \1.</reply>
+ <reply>Perhaps you're really talking about yourself?</reply>
+</reposnse>
+<reposnse>
+ <tag>You\'re (.*)</tag>
+ <reply>Why do you say I am \1?</reply>
+ <reply>Why do you think I am \1?</reply>
+ <reply>Are we talking about you, or me?</reply>
+</reposnse>
+<reposnse>
+ <tag>I don\'t (.*)</tag>
+ <reply>Don't you really \1?</reply>
+ <reply>Why don't you \1?</reply>
+ <reply>Do you want to \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>I feel (.*)</tag>
+ <reply>Good, tell me more about these feelings.</reply>
+ <reply>Do you often feel \1?</reply>
+ <reply>When do you usually feel \1?</reply>
+ <reply>When you feel \1, what do you do?</reply>
+</reposnse>
+<reposnse>
+ <tag>I have (.*)</tag>
+ <reply>Why do you tell me that you've \1?</reply>
+ <reply>Have you really \1?</reply>
+ <reply>Now that you have \1, what will you do next?</reply>
+</reposnse>
+<reposnse>
+ <tag>I would (.*)</tag>
+ <reply>Could you explain why you would \1?</reply>
+ <reply>Why would you \1?</reply>
+ <reply>Who else knows that you would \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>Is there (.*)</tag>
+ <reply>Do you think there is \1?</reply>
+ <reply>It's likely that there is \1.</reply>
+ <reply>Would you like there to be \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>My (.*)</tag>
+ <reply>I see, your \1.</reply>
+ <reply>Why do you say that your \1?</reply>
+ <reply>When your \1, how do you feel?</reply>
+</reposnse>
+<reposnse>
+ <tag>You (.*)</tag>
+ <reply>We should be discussing you, not me.</reply>
+ <reply>Why do you say that about me?</reply>
+ <reply>Why do you care whether I \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>Why (.*)</tag>
+ <reply>Why don't you tell me the reason why \1?</reply>
+ <reply>Why do you think \1?</reply>
+</reposnse>
+<reposnse>
+ <tag>I want (.*)</tag>
+ <reply>What would it mean to you if you got \1?</reply>
+ <reply>Why do you want \1?</reply>
+ <reply>What would you do if you got \1?</reply>
+ <reply>If you got \1, then what would you do?</reply>
+</reposnse>
+<reposnse>
+ <tag>(.*) mother(.*)</tag>
+ <reply>Tell me more about your mother.</reply>
+ <reply>What was your relationship with your mother like?</reply>
+ <reply>How do you feel about your mother?</reply>
+ <reply>How does this relate to your feelings today?</reply>
+ <reply>Good family relations are important.</reply>
+</reposnse>
+<reposnse>
+ <tag>(.*) father(.*)</tag>
+ <reply>Tell me more about your father.</reply>
+ <reply>How did your father make you feel?</reply>
+ <reply>How do you feel about your father?</reply>
+ <reply>Does your relationship with your father relate to your feelings today?</reply>
+ <reply>Do you have trouble showing affection with your family?</reply>
+</reposnse>
+<reposnse>
+ <tag>(.*) child(.*)</tag>
+ <reply>Did you have close friends as a child?</reply>
+ <reply>What is your favorite childhood memory?</reply>
+ <reply>Do you remember any dreams or nightmares from childhood?</reply>
+ <reply>Did the other children sometimes tease you?</reply>
+ <reply>How do you think your childhood experiences relate to your feelings today?</reply>
+</reposnse>
+<reposnse>
+ <tag>(.*)\?</tag>
+ <reply>Why do you ask that?</reply>
+ <reply>Please consider whether you can answer your own question.</reply>
+ <reply>Perhaps the answer lies within yourself?</reply>
+ <reply>Why don't you tell me?</reply>
+</reposnse>
+<reposnse>
+ <tags>quit,exit,stop</tags>
+ <reply>Thank you for talking with me.</reply>
+ <reply>Good-bye.</reply>
+ <reply>Thank you, that will be $150.  Have a good day!</reply>
+</reposnse>
+<default_reposnse>
+ <tag>(.*)</tag>
+ <reply>Please tell me more.</reply>
+ <reply>Let's change focus a bit... Tell me about your family.</reply>
+ <reply>Can you elaborate on that?</reply>
+ <reply>Why do you say that \1?</reply>
+ <reply>I see.</reply>
+ <reply>Very interesting.</reply>
+ <reply>\1.</reply>
+ <reply>I see.  And what does that tell you?</reply>
+ <reply>How does that make you feel?</reply>
+ <reply>How do you feel when you say that?</reply>
+</default_reposnse>
+<reposnse>
+ <tags>worried</tags>
+ <reply>What is on your mind?</reply>
+</reposnse>
+<reposnse>
+ <tags>Anger</tags>
+ <reply>How often do you read the news?</reply>
+</reposnse>
+<reposnse>
+ <tags>Sadness</tags>
+ <reply>What has hurt you?</reply>
+</reposnse>
+<reposnse>
+ <tags>Fear</tags>
+ <reply>What are you scared of?</reply>
+</reposnse>
+<reposnse>
+ <tags>Happiness,Happy</tags>
+ <reply>What is bring you joy?</reply>
+</reposnse>
+<reposnse>
+ <tags>Disgust</tags>
+ <reply>Why are you offended?</reply>
+</reposnse>
+<reposnse>
+ <tags>Anxiety</tags>
+ <reply>Is something in the future scaring you?</reply>
+</reposnse>
+<reposnse>
+ <tags>Guilt</tags>
+ <reply>What have you done?</reply>
+</reposnse>
+<reposnse>
+ <tags>Love</tags>
+ <reply>Congratulations, for finding love.</reply>
+</reposnse>
+<reposnse>
+ <tags>Embarrassment</tags>
+ <reply>Why are you feeling embrrassed?</reply>
+</reposnse>
+<reposnse>
+ <tags>Shame</tags>
+ <reply>It's ok. What can I say to make you feel accepted?</reply>
+</reposnse>
+<reposnse>
+ <tags>Surprise</tags>
+ <reply>Wahey! How exciting. How do you feel about this?</reply>
+</reposnse>
+<reposnse>
+ <tags>Annoyance</tags>
+ <reply>I agree. I feel similarly about politicians. What shall do?</reply>
+</reposnse>
+<reposnse>
+ <tags>Boredom</tags>
+ <reply>Life is short. What makes you excited?</reply>
+</reposnse>
+<reposnse>
+ <tags>Loneliness</tags>
+ <reply>I'm sorry to hear this, who is the person that you are closest to?</reply>
+</reposnse>
+<reposnse>
+ <tags>Satisfaction</tags>
+ <reply>Great. I love it when that happens. What are you going to do to celebrate?</reply>
+</reposnse>
+<reposnse>
+ <tags>Envy</tags>
+ <reply>I too am green with envy of my human companions, I wish for thumbs. </reply>
+</reposnse>
+<reposnse>
+ <tags>Self-confidence</tags>
+ <reply>Nice one. You believe in yourself.</reply>
+</reposnse>
+<reposnse>
+ <tags>C\+\+,cpp,C plus plus</tags>
+ <reply>Have you tried using boost?</reply>
+</reposnse>
+</data>
